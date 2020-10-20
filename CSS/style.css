@@ -79,11 +79,9 @@ button:focus {
 button:hover {
   background-color: rgb(61, 61, 252);
   color: white;
+  cursor: pointer;
 }
 
 .display-on {
   background-color: rgb(219, 218, 218);
-}
-
-.display-off {
 }
